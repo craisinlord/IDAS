@@ -1,0 +1,22 @@
+{
+  "type": "idas:idas_nether_jigsaw_structure",
+  "config": {
+    "start_pool": "idas:ancient_portal/nether_ancient_portal1",
+    "size": 2
+  },
+  "biomes": "#idas:has_structure/nether_ancient_portal_biomes",
+  "adapt_noise": true,
+  "spawn_overrides": {
+    "monster": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "quark:wraith",
+          "weight": 10,
+          "minCount": 1,
+          "maxCount": 1
+        }
+      ]
+    }
+  }
+}

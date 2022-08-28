@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "idas:tinkers_workshop",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 169480693,
+    "spacing": 30,
+    "separation": 15,
+    "type": "minecraft:random_spread"
+  }
+}

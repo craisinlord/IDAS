@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "idas:ancient_portal",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 169481691,
+    "spacing": 30,
+    "separation": 20,
+    "type": "minecraft:random_spread"
+  }
+}
