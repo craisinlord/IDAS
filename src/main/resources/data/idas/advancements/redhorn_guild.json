@@ -21,7 +21,7 @@
     "in_redhorn_guild": {
       "trigger": "minecraft:location",
       "conditions": {
-        "feature": "in_redhorn_guild"
+        "feature": "idas:redhorn_guild"
       }
     }
   },

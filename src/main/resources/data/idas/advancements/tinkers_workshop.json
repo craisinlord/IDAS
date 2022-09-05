@@ -2,7 +2,7 @@
   "parent": "idas:idas_root",
   "display": {
     "icon": {
-      "item": "create:flywheel"
+      "item": "create:brass_ingot"
     },
     "title": {
       "translate": "Tinker's Workshop"

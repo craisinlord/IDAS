@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "idas:bazaar",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 169481694,
+    "spacing": 10,
+    "separation": 5,
+    "type": "minecraft:random_spread"
+  }
+}
