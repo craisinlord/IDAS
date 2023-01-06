@@ -13,7 +13,7 @@
       },
       {
         "tradeLevel": 1,
-        "structure": "idas:wizardtower",
+        "structure": "idas:wizard_tower",
         "mapName": "Wizard Tower Map",
         "mapIcon": "BANNER_PURPLE",
         "emeraldsRequired": 15,
@@ -23,7 +23,7 @@
       },
       {
         "tradeLevel": 1,
-        "structure": "idas:sunken_ship",
+        "structure": "idas:sunken_ship/sunken_ship",
         "mapName": "Sunken Ship Map",
         "mapIcon": "BANNER_GRAY",
         "emeraldsRequired": 15,

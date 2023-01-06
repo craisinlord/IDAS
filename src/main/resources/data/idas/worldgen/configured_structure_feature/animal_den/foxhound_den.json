@@ -1,0 +1,10 @@
+{
+  "type": "idas:idas_nether_jigsaw_structure",
+  "config": {
+    "start_pool": "idas:animal_den/foxhound_den",
+    "size": 1
+  },
+  "biomes": "#idas:has_structure/nether_biomes",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

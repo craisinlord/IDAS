@@ -21,7 +21,7 @@
     "in_wizardtower": {
       "trigger": "minecraft:location",
       "conditions": {
-        "feature": "idas:wizardtower"
+        "feature": "idas:wizard_tower"
       }
     }
   },
