@@ -5,10 +5,10 @@
       "item": "minecraft:skeleton_skull"
     },
     "title": {
-      "translate": "The Necromancer's Spire"
+      "translate": "advancements.idas.necromancers_spire.title"
     },
     "description": {
-      "translate": "A Chilling Evil Lurks Within..."
+      "translate": "advancements.idas.necromancers_spire.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,

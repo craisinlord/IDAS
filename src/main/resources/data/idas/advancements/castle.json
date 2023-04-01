@@ -5,10 +5,10 @@
       "item": "minecraft:lodestone"
     },
     "title": {
-      "translate": "Castle"
+      "translate": "advancements.idas.castle.title"
     },
     "description": {
-      "translate": "Fortress of the Villagers"
+      "translate": "advancements.idas.castle.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,

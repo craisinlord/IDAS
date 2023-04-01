@@ -5,10 +5,10 @@
       "item": "minecraft:totem_of_undying"
     },
     "title": {
-      "translate": "Pillager Fortress"
+      "translate": "advancements.idas.pillager_fortress.title"
     },
     "description": {
-      "translate": "Pillage the Illage Away"
+      "translate": "advancements.idas.pillager_fortress.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,

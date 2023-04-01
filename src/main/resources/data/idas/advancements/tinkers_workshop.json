@@ -5,10 +5,10 @@
       "item": "create:brass_ingot"
     },
     "title": {
-      "translate": "Tinker's Workshop"
+      "translate": "advancements.idas.tinkers_workshop.title"
     },
     "description": {
-      "translate": "Become the latest test subject of the Tinker..."
+      "translate": "advancements.idas.tinkers_workshop.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,

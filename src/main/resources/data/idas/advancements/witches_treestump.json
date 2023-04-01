@@ -5,10 +5,10 @@
       "item": "minecraft:nether_wart"
     },
     "title": {
-      "translate": "A Witch's Stump"
+      "translate": "advancements.idas.witches_treestump.title"
     },
     "description": {
-      "translate": "A place of dark magic in the woods"
+      "translate": "advancements.idas.witches_treestump.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,

@@ -5,10 +5,10 @@
       "item": "minecraft:wooden_sword"
     },
     "title": {
-      "translate": "The Redhorn Guild"
+      "translate": "advancements.idas.redhorn_guild.title"
     },
     "description": {
-      "translate": "A Refuge and Training Grounds"
+      "translate": "advancements.idas.redhorn_guild.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,

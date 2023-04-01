@@ -5,10 +5,10 @@
       "item": "minecraft:lapis_lazuli"
     },
     "title": {
-      "translate": "Enchanting Tower"
+      "translate": "advancements.idas.enchantingtower.title"
     },
     "description": {
-      "translate": "A Cleric's Tower"
+      "translate": "advancements.idas.enchantingtower.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,

@@ -5,10 +5,10 @@
       "item": "create:rose_quartz"
     },
     "title": {
-      "translate": "Wizard Tower"
+      "translate": "advancements.idas.wizardtower.title"
     },
     "description": {
-      "translate": "A Mage's Spire"
+      "translate": "advancements.idas.wizardtower.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,
