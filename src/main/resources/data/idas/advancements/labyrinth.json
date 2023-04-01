@@ -5,10 +5,10 @@
       "item": "alexsmobs:guster_eye"
     },
     "title": {
-      "translate": "Labyrinth of the Serpent"
+      "translate": "advancements.idas.labyrinth.title"
     },
     "description": {
-      "translate": "May the fates be on your side..."
+      "translate": "advancements.idas.labyrinth.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,

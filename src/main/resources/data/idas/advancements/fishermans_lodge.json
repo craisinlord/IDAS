@@ -5,10 +5,10 @@
       "item": "minecraft:cod"
     },
     "title": {
-      "translate": "Fisherman's Lodge"
+      "translate": "advancements.idas.fishermans_lodge.title"
     },
     "description": {
-      "translate": "The Fisherman of the Lake"
+      "translate": "advancements.idas.fishermans_lodge.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,

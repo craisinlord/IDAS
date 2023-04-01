@@ -5,10 +5,10 @@
       "item": "alexsmobs:moose_antler"
     },
     "title": {
-      "translate": "Hunter's Cabin"
+      "translate": "advancements.idas.hunters_cabin.title"
     },
     "description": {
-      "translate": "The Huntsman of the Woods"
+      "translate": "advancements.idas.hunters_cabin.desc"
     },
     "show_toast": true,
     "announce_to_chat": true,
